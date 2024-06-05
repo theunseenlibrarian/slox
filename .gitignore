@@ -7,6 +7,14 @@ target
 
 ### VS Code ###
 .vscode/
+.bloop/
+.metals/
+
+### Scala ###
+project/.bloop
+project/project
+project/target
+project/metals.sbt
 
 ### Mac OS ###
 .DS_Store
